@@ -1,0 +1,15 @@
+C:\Users\migue\source\repos\Proyecto-Final-ADM\Proyecto-Final-ADM\bin\Debug\net6.0\Proyecto-Final-ADM.exe
+C:\Users\migue\source\repos\Proyecto-Final-ADM\Proyecto-Final-ADM\bin\Debug\net6.0\Proyecto-Final-ADM.deps.json
+C:\Users\migue\source\repos\Proyecto-Final-ADM\Proyecto-Final-ADM\bin\Debug\net6.0\Proyecto-Final-ADM.runtimeconfig.json
+C:\Users\migue\source\repos\Proyecto-Final-ADM\Proyecto-Final-ADM\bin\Debug\net6.0\Proyecto-Final-ADM.dll
+C:\Users\migue\source\repos\Proyecto-Final-ADM\Proyecto-Final-ADM\bin\Debug\net6.0\Proyecto-Final-ADM.pdb
+C:\Users\migue\source\repos\Proyecto-Final-ADM\Proyecto-Final-ADM\obj\Debug\net6.0\Proyecto-Final-ADM.csproj.AssemblyReference.cache
+C:\Users\migue\source\repos\Proyecto-Final-ADM\Proyecto-Final-ADM\obj\Debug\net6.0\Proyecto-Final-ADM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\migue\source\repos\Proyecto-Final-ADM\Proyecto-Final-ADM\obj\Debug\net6.0\Proyecto-Final-ADM.AssemblyInfoInputs.cache
+C:\Users\migue\source\repos\Proyecto-Final-ADM\Proyecto-Final-ADM\obj\Debug\net6.0\Proyecto-Final-ADM.AssemblyInfo.cs
+C:\Users\migue\source\repos\Proyecto-Final-ADM\Proyecto-Final-ADM\obj\Debug\net6.0\Proyecto-Final-ADM.csproj.CoreCompileInputs.cache
+C:\Users\migue\source\repos\Proyecto-Final-ADM\Proyecto-Final-ADM\obj\Debug\net6.0\Proyecto-Final-ADM.dll
+C:\Users\migue\source\repos\Proyecto-Final-ADM\Proyecto-Final-ADM\obj\Debug\net6.0\refint\Proyecto-Final-ADM.dll
+C:\Users\migue\source\repos\Proyecto-Final-ADM\Proyecto-Final-ADM\obj\Debug\net6.0\Proyecto-Final-ADM.pdb
+C:\Users\migue\source\repos\Proyecto-Final-ADM\Proyecto-Final-ADM\obj\Debug\net6.0\Proyecto-Final-ADM.genruntimeconfig.cache
+C:\Users\migue\source\repos\Proyecto-Final-ADM\Proyecto-Final-ADM\obj\Debug\net6.0\ref\Proyecto-Final-ADM.dll
